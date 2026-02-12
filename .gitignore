@@ -1,0 +1,13 @@
+node_modules/
+.env
+uploads/*
+!uploads/.gitkeep
+results/*
+!results/.gitkeep
+models/*
+!models/.gitkeep
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+*.whl
